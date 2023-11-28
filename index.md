@@ -1,5 +1,12 @@
-Yongce Li yol013@ucsd.edu
-B01 Robust and Interpretable Neural Network Models for Computer Vision and Natural Language Processing Prof. Lily Weng
+Yongce Li 
+
+yol013@ucsd.edu
+
+B01 
+
+Robust and Interpretable Neural Network Models for Computer Vision and Natural Language Processing 
+
+Prof. Lily Weng
 
 **interpretability of LLMs**
 
